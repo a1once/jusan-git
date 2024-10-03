@@ -1,5 +1,7 @@
 # stepik-id-printer (h1)
 
+![Logo](https://github.com/a1once/TechOrda/blob/main/git/4%20branch/jusan-logo.png)
+
 Это проект для вывода моего персонального идентификатора на _образовательной платформе_ `stepik.org`.
 
 ## Скрипт username.sh
